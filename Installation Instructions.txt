@@ -1,0 +1,17 @@
+1. Project Report.
+The complete details of the project in the Word Document Project Report.
+
+2. Video Footage.
+Video Footage of testing and training of the model in webots simulation is present in folder ' Videos of Mordel Training and Testing'
+
+3. Simulation.
+The simulation of the training or testing can be done by the following steps.
+	(a)	Install Webots.
+	(b) 	Import World File provided.
+	(c)	Import the Track/Map Provided.
+	(d)	For training a new model; Create a new controler and copy paste the Training code for euck provided, and 		run.
+	(e)	For Testing existing Model; For training a new model; Create a new controler and copy paste the Testing 		code for euck provided, and copy paste the model provided in the same folder as of the controller, and	run.
+	(f)	Always ensure PyTorch and Numpy are preinstalled, and wrapper code is copy pasted in your controller folder.
+
+4. Physical Robot Implementation
+Codes for Physical FireBird V and Model is provided in Converted Codes folder
